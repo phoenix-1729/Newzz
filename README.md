@@ -1,0 +1,2 @@
+# Newzz
+Compact news app
